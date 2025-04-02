@@ -76,12 +76,13 @@
     "vite-plugin-css-injected-by-js": "^3.2.1",
     "vitepress": "^1.0.0-rc.40",
     "vue": "^3.3.4",
-    "vue-tsc": "^1.8.8"
+    "vue-tsc": "2.0.29"
   },
   "peerDependencies": {
     "vue": "^3"
   },
   "engines": {
     "node": ">=16.11.0"
-  }
+  },
+  "packageManager": "pnpm@9.13.0+sha512.beb9e2a803db336c10c9af682b58ad7181ca0fbd0d4119f2b33d5f2582e96d6c0d93c85b23869295b765170fbdaa92890c0da6ada457415039769edf3c959efe"
 }
